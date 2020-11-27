@@ -1,5 +1,5 @@
 var test;
-var test1;
+var test1,test2;
 function setup() {
   createCanvas(800,400);
   test=createSprite(400, 200, 50, 50);
